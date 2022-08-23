@@ -1,0 +1,122 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.right {
+    float: right;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 15px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.centera {
+    display: inline-block;
+    padding-top: 15px;
+    margin-left: 15px;
+    margin-right: auto;
+    width: 25%;
+}
+.left {
+    float: left;
+    margin-left: 460px;
+    width: 7%;
+    
+}
+#PORTAFOLIO, #ABOUT, #CONTACT{
+    font-weight: bold;
+}
+#PORTAFOLIO, #ABOUT, #CONTACT,#zend, #free {
+    padding: 10px;
+    border-style: solid;
+    border-color: #fff;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+    font-size: large;
+    background-color: #2C3E50;
+    color: #fff;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #1ABC9C;
+}
+#Menu, #Creditos{
+    height: 104px;
+    background-color: #2C3E50;
+    
+}
+#Inicio{
+    height: 575px!important;
+}
+#Inicio, #Acercade, #Portafolio, #Contactame{
+    height: 700px;
+    background-color: #1ABC9C;
+}
+#Acercade{
+    height: 400px;
+}
+#Portafolio, #Contactame{
+    background-color: #fff!important;
+}
+#tituin{
+    font-size: 75px!important;
+}
+#subtituin{
+    font-size: 30px!important;
+}
+#menuin, #tituin, #subtituin, #abut, #zend{
+    color: #fff;
+}
+#menuin, #tituin, #subtituin, #negritos, #abut{
+    padding: 25px;
+    font-family: 'Montserrat';
+    font-size: xx-large; 
+}
+#tituin, #subtituin, #negritos, #abut{
+    text-align: center;
+}
+#subtituin, #zend{
+    font-family: 'Lato', sans-serif;
+}
+#negritos{
+    color: #2C3E50;
+}
+#estrellita2{
+    padding-bottom: 50px;
+}
+.columnas{
+    font-size: large;
+    font-family: 'Lato';
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 325px;
+    padding-right: 325px;
+    padding-bottom: 50px;
+}
+#zend, #free {
+    background-color: #1ABC9C!important;
+    
+    
+}
+#free{
+    padding-bottom: 10%;
+    border-style: solid;
+    border-color: #fff;
+    color: #fff;
+    padding: 10px;
+}
+input, textarea{
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-top: auto;
+    width: 30%;
+    font-family: 'Montserrat';
+    font-size: larger;
+}
